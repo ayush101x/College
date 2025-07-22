@@ -13,7 +13,7 @@ class home extends StatelessWidget {
         leading: const Row(
           children: [
             Icon(Icons.arrow_back_ios,color: Colors.white),
-            Text("Arrow"),
+
           ],
         ),
         title: Center(child: Text("Home Page")),
